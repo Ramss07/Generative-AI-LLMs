@@ -1,2 +1,2 @@
 # Generative-AI-LLMs
-Generative AI and LLM projects
+A collection of small projects and experiments exploring Generative AI and Large Language Models (LLMs)
