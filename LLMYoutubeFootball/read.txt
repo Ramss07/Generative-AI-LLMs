@@ -1,0 +1,2 @@
+WIP
+project that pulls YouTube captions, chunks them with FAISS, and lets you ask an LLM fantasy football questions. Many videos don’t provide captions, so may need to use a cookies.txt browser extension to fetch restricted transcripts.
